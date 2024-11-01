@@ -1,0 +1,4 @@
+C:\Users\777\Desktop\авпыо\FirstGits\FirstGits\obj\Debug\net6.0\FirstGits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\777\Desktop\авпыо\FirstGits\FirstGits\obj\Debug\net6.0\FirstGits.AssemblyInfoInputs.cache
+C:\Users\777\Desktop\авпыо\FirstGits\FirstGits\obj\Debug\net6.0\FirstGits.AssemblyInfo.cs
+C:\Users\777\Desktop\авпыо\FirstGits\FirstGits\obj\Debug\net6.0\FirstGits.csproj.CoreCompileInputs.cache
